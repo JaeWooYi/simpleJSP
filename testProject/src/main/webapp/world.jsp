@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<p>Hello JSP World!!</p>
+<p>World JSP!!</p>
 
 </body>
 </html>

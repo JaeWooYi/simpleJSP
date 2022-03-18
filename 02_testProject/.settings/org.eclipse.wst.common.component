@@ -2,7 +2,7 @@
                 
     
     
-    <wb-module deploy-name="01_testProject">
+    <wb-module deploy-name="02_testProject">
                                 
         
         
@@ -14,8 +14,8 @@
                                 
         
         
-        <property name="java-output-path" value="/01_testProject/build/classes"/>
-        <property name="context-root" value="01_testProject"/>
+        <property name="java-output-path" value="/02_testProject/build/classes"/>
+        <property name="context-root" value="02_testProject"/>
                             
     
     
